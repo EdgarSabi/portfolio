@@ -1,13 +1,13 @@
-title: Abhishek Nagekar
-description: Web & Security Engineer
-site_title: '@abhn - Abhishek Nagekar'
+title: Patty Sausele
+description: Computer Science Student
+site_title: '@Portfolio - Patty Sausele'
 
 # Build settings
 markdown: kramdown
 exclude: [vendor/ruby]
 
 # Personalization
-github_username: abhn
+github_username: edgarsabi
 blog_url: https://www.nagekar.com
 email: abhishek@nagekar.com
 keybase_username: abhn
@@ -15,7 +15,7 @@ twitter_username: abhn_
 reddit_username: abhn
 
 # absolute or relative
-profile_picture: assets/images/pp.jpg
+profile_picture: assets/images/screens.png
 
 # Google Analytics ID
 google_analytics: 
